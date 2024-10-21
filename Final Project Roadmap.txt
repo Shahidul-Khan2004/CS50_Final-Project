@@ -1,7 +1,3 @@
-Got it! Here’s a **learning roadmap** with helpful links to guide you in building your **real-time chat app** using **Firebase** and **Bootstrap**, step by step. You’ll gain the skills as you explore these resources and apply them yourself.
-
----
-
 ### **1. Firebase Basics**
 - **Firebase Setup (Firestore, Authentication, Hosting)**:
    - [Firebase Documentation](https://firebase.google.com/docs)
@@ -57,5 +53,3 @@ Got it! Here’s a **learning roadmap** with helpful links to guide you in build
 - Explore the links, practice the basics (HTML, JavaScript, Bootstrap, Firebase), and apply them to your own chat app project.
 - Start simple and build gradually—authentication, real-time messaging, user interface improvements.
 - Test and deploy your app using Firebase Hosting.
-
-By using these resources, you’ll gain a solid foundation and be able to build the chat app yourself, learning along the way!
