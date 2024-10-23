@@ -1,17 +1,6 @@
 ### **1. Firebase Basics**
 - **Firebase Setup (Firestore, Authentication, Hosting)**:
    - [Firebase Documentation](https://firebase.google.com/docs)
-   - [Learn Firebase Hosting](https://firebase.google.com/docs/hosting)
-   - [Get Started with Firebase Authentication](https://firebase.google.com/docs/auth)
-
-### **2. HTML & Bootstrap for Styling**
-- **Learn HTML**:
-   - [MDN Web Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-   - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
-
-- **Bootstrap for Responsive Design**:
-   - [Bootstrap Official Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-   - [Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=4sosXZsdy-s) (Video)
 
 ### **3. JavaScript for Frontend Logic**
 - **JavaScript Basics**:
